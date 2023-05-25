@@ -99,4 +99,11 @@ img{
 
 footer{
     background-color: #201d28;
+    color: white;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.footer-container{
+
 }
