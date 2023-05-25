@@ -46,11 +46,12 @@ header{
 .fa-user{
     margin-right: 10px;
     color: #acb1bd;
-    font-size: 10px;
+    font-size: 13px;
 }
 
 .fa-angle-down{
     margin-left: 10px;
+    font-size: 10px;
 }
 
 .border-right{
