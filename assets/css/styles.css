@@ -1,5 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: "Inter", Sans-serif;
+}
+
+.container{
+    margin: auto;
+    width: 84%;
+}
+
+.auto{
+    margin: auto;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.w-50{
+    width: 50%;
+}
+
+/* NAV BAR */
+
+header{
+    /* background-color: red; */
+    position: relative;
+    padding: 30px 0;
+}
+.others{
+    justify-content: space-between;
+    position: absolute;
+    right: 0;
+}
+
+.border-right{
+    border-right: 1px solid #d6d6d6;
+    height: 14px;
+    margin-top: 2px;
+}
+
+.logo{
+    width: 130px;
+    
+}
+
+
+/* MAIN*/
+
+main{
+    background-color: #f5f6f8;
+}
+
+.main-container{
+    text-align: center;
+    width: 40%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+img{
+    margin: auto;
+    width: 82%;
+}
+
+.col-red{
+    color: #ff6c4b;
+    font-size: 33.5px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    line-height: 2.5rem;
+
+}
+
+.col-gray{
+    color: #2221269C;
+    font-size: 17px;
+    font-weight: 300;
+    margin-bottom: 1.8rem;
+}
+
+.b-btn{
+    background-color: #3D53F2;
+    border: none;
+    padding: 15px 23px;
+    border-radius: 5px;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 11px;
+
+}
+
+/* FOOTER */
+
+footer{
+    background-color: #201d28;
 }
