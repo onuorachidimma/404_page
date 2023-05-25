@@ -104,6 +104,19 @@ footer{
     padding-bottom: 30px;
 }
 
+.d-block{
+    display: block;
+}
+
+.footer1{
+    width: 70%;
+    justify-content: space-between;
+}
+
+.footer2{
+    width: 30%;
+}
+
 .footer-container{
 
 }
