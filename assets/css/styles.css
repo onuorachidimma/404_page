@@ -43,9 +43,15 @@ header{
     font-weight: 500;
 }
 
-/* .angle::after{
-    content: "\f007";
-} */
+.fa-user{
+    margin-right: 10px;
+    color: #acb1bd;
+    font-size: 10px;
+}
+
+.fa-angle-down{
+    margin-left: 10px;
+}
 
 .border-right{
     border-right: 1px solid #d6d6d6;
