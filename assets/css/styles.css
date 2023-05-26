@@ -28,6 +28,10 @@
     width: 60%;
 }
 
+.n-underline{
+    text-decoration: none;
+}
+
 /* NAV BAR */
 
 header{
@@ -72,6 +76,20 @@ span:hover{
     cursor: pointer;
 }
 
+/* still trying my hands on the dropdown effect */
+/* .dropdown{
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 120px;
+    padding: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-box:hover{
+    display: block;
+} */
 /* MAIN*/
 
 main{
