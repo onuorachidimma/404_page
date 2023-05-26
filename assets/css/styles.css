@@ -65,6 +65,12 @@ header{
     
 }
 
+span:hover{
+    color: blue;
+}
+.hover{
+    cursor: pointer;
+}
 
 /* MAIN*/
 
@@ -109,6 +115,11 @@ img{
     color: white;
     letter-spacing: 1px;
     font-size: 11px;
+
+}
+
+.b-btn:hover{
+    padding: 13px 21px; 
 
 }
 
