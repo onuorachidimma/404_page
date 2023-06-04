@@ -224,3 +224,10 @@ input{
     color: #FFFFFF91;
     font-size: 14px;
 }
+
+/* new styles */
+
+.material-symbols-outlined{
+    display: none;
+}
+
